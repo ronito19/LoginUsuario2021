@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginUsuario2021</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="imagen">imagen</string>
+    <string name="area_de_usuario">Area de Usuario</string>
+    <string name="aqui_va_el_e_mail">Aqui va el E-mail</string>
+</resources>
